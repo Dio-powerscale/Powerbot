@@ -1,0 +1,2 @@
+# Powerbot
+A powerscaling bot
